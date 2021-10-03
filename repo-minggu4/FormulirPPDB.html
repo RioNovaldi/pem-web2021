@@ -1,0 +1,73 @@
+<html>
+<head>
+  <title>Formulir PPDB Jalur Zonasi Tahun 2020</title>
+</head>
+<body>
+  <h1>Formulir PPDB Jalur Zonasi Tahun 2020</h1>
+</body>
+</html>
+<P><b>NISN:</b></P>
+<input type="text" name="NISN" size="55">
+<P><b>Asal Sekolah:</b></P>
+<input type="text" name="asal_sekolah" size="55">
+<P><b>Tahun Lulus:</b></P>
+<input type="text" name="tahun_lulus" size="55">
+<P><b>Nama Lengkap: </b></P>
+<input type="text" name="nama_lengkap" size="55">
+<P><b>NIK: </b></P>
+<input type="text" name="NIK" size="55">
+<P><b>Tempat / Tanggal Lahir: </b></P>
+<textarea name="TTL" cols="40" rows="3"></textarea>
+<P><b>Foto Copy Akta: </b></P>
+<form action="proses.php" method="POST" enctype="multipart/form-data">
+<table>
+<tr><td><td/><td><input type="file" value="upload gambar"/></td></tr>
+</table>
+<P><b>Jenis Kelamin:</b></P>
+Laki-laki <input type="radio" name="jenis_kelamin" value="L"> Perempuan <input type="radio" name="jenis_kelamin" value="P">
+<p><b>Alamat:</p></b>
+<textarea name="Alamat" cols="40" rows="5"></textarea>
+<P><b>Email Aktif: </b></P>
+<input type="text" name="email_aktif" size="55">
+<P><b>Nomor Kartu Keluarga: </b></P>
+<input type="text" name="NOMOR_KK" size="55">
+<P><b>Lampiran KK: </b></P>
+<form action="proses.php" method="POST" enctype="multipart/form-data">
+<table>
+<tr><td><td/><td><input type="file" value="upload gambar"/></td></tr>
+</table>
+<P><b>Nama Ayah Kandung: </b></P>
+<input type="text" name="nama_ayah_kandung" size="55">
+<p><b>Agama Ayah:</p></b>
+<select name="info">				
+<option selected="select">-Pilih-</option>		
+<option value="Islam">1. Islam</option>
+<option value="Kristen">2. Kristen</option>		
+<option value="Katolik">3. Katolik</option>
+<option value="Konghucu">4. Konghucu</option>
+<option value="Hindu">5. Hindu</option>
+<option value="Budha">6. Budha</option>
+<option value="Lainnya">7. Lainnya</option>
+</select>
+<P><b>Pekerjaan Ayah: </b></P>
+<input type="text" name="pekerjaan_ayah" size="55">
+<P><b>Nama Ibu Kandung: </b></P>
+<input type="text" name="nama_ibu_kandung" size="55">
+<p><b>Agama Ibu:</p></b>
+<select name="info">				
+<option selected="select">-Pilih-</option>		
+<option value="Islam">1. Islam</option>
+<option value="Kristen">2. Kristen</option>		
+<option value="Katolik">3. Katolik</option>
+<option value="Konghucu">4. Konghucu</option>
+<option value="Hindu">5. Hindu</option>
+<option value="Budha">6. Budha</option>
+<option value="Lainnya">7. Lainnya</option>
+</select>
+<P><b>Pekerjaan Ibu: </b></P>
+<input type="text" name="pekerjaan_ibu" size="55">
+<form action=“simpan.php” >
+<table>
+<tr><td><input type="submit" value="Kirim"><input type="reset" value="Batal"></td></tr>
+</table>
+</form>
