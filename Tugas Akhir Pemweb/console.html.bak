@@ -1,0 +1,240 @@
+<!DOCTYPE>
+<html>
+    <head>
+        <title>Onad Online gaming Shop</title>
+        <link rel="stylesheet" href="console.css" type="text/css">
+    </head>
+    <body>
+         <table border="0" width="100%" cellpadding="0" cellspacing="0">
+            <tr>
+                <td height="5">
+                    <table border="0">
+                        <tr>
+                            <td width="30%"></td>
+                            <td><onad class="a b">sell on Onad Peripheral Onlline</td>
+                            <td><font face="arial" size="4">&nbsp;|</td></font>
+                            <td><onad class="a b">&nbsp;Buy Wolsale</td>
+                            <td><onad class="a b"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="bendera.png" width="15" height="11" align="bottom">Indonesia</td>
+                            <td><onad class="a b">&nbsp;&nbsp;FAQ</td>
+                            <td><onad class="a b">&nbsp;&nbsp;Costumer Care</td>
+                            <td><onad class="a b">&nbsp;&nbsp;Bahasa/Eng</td>
+                            <td><onad class="a b">&nbsp;&nbsp;Whislist</td>
+                            <td><onad class="a b">&nbsp;&nbsp;Orders</td>
+                            <td><onad class="a b">&nbsp;&nbsp;Account</td>
+                            <td><onad class="a b">&nbsp;&nbsp;Login signup</td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+
+
+
+
+
+            <tr height="100px">
+                <td width="10%" height80>
+                    <table border="0">
+                        <tr>
+                            <td width="130"></td>
+                            <td><img src="ps.jpg" width="150" height="60"></td>
+                            <td width="50"></td>
+                            <td><onad class="a b"><b>Disk</b></td></onad>
+                            <td>|</td>
+                            <td><onad class="a b"><b>Controller</b></td></onad>
+                            <td>|</td>
+                            <td><dimas class="a b"><b>Playstation Plus</b></td></dimas>
+                            <td>|</td>
+                            <td><onad class="a b"><b>XBOX</b></td></onad>
+                            <td>|</td>
+                            <td><onad class="a b"><b>Additional</b></td></onad>
+                            <td width="50"></td>
+                            <td><form><input type="text" name="search" placeholder="search"></form></td>
+                            <td><input type="image" src="cari.png" width="30" height="30" alt="submit button"></td>
+                            <td><font size=6>|</font></td>
+                            <td><input type="image" src="keranjang.png" width="30" height="30" alt="submit button"></td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+
+        
+    <tr>
+        <td bgcolor="black"><font text-align="center" size="10"><b><p align="center">Onad Gaming Peripheral Online</p></b></td></font>
+      
+    <tr valign="top" >
+        <td><img src="gambarlogin.jpg" width="100%" height="400"></td>
+    </tr> 
+    <br>
+    <br>
+    <br>
+   
+
+        <tr>
+            <td>
+                <table>
+                    <tr>
+                        <td width="30"></td>
+                        <td><font size="5" face="calibri"><b>Best seller</font></b></td>
+                        <td width="20"></td>
+                        <td><font size="3" face="calibri" color="blue"><b>See More</b></font></td>
+                    </tr>
+                </table>
+            </td>
+        </tr>    
+
+        <hr>
+        <tr>
+            <td>
+                <table>
+                    <tr>
+                        <td width="20"></td>
+                        <td><input type="image" src="ps4stick.jpg" width="350" height="350" alt="submit button">
+                        <br><font size="2" face="calibri" >Playstation 4 Controller
+                        <br><font size="4" face="calibri"><b>Rp.277.000</b></font>
+                        <br><font size="2" face="calibri"><s>Rp.325.000</s></font> &nbsp; <font color="red" face="calibri" size="2">(15% OFF)</td>
+                        <td width="20"></td>
+                        <td><input type="image" src="ps5stick.jpg" width="325" height="325" alt="submit button">
+                        <br><font size="2" face="calibri" >Playstation 5 Controller
+                        <br><font size="4" face="calibri"><b>Rp.900.000</b></font>
+                        <br><font size="2" face="calibri"><s>Rp.1.000.000</s></font> &nbsp; <font color="red" face="calibri" size="2">(10% OFF)</td>
+                        <td width="20"></td>
+                        <td><input type="image" src="xboxstick.jpg" width="230" height="230" alt="submit button">
+                        <br><font size="2" face="calibri" >XBox Controller
+                        <br><font size="4" face="calibri"><b>Rp.360.000</b></font>
+                        <br><font size="2" face="calibri"><s>Rp.400.000</s></font> &nbsp; <font color="red" face="calibri" size="2">(10% OFF)</td>
+                        <td width="20"></td>
+                        <td><input type="image" src="psplus.png" width="230" height="230" alt="submit button">
+                        <br><font size="2" face="calibri" >Playstation Plus 12 Month Membership                 
+                        <br><font size="4" face="calibri"><b>Rp.900.000</b></font>
+                        <br><font size="2" face="calibri"><s>Rp.1.000.000</s></font> &nbsp; <font color="red" face="calibri" size="2">(10% OFF)</td>
+                        <td width="20"></td>
+                        <td><input type="image" src="xboxlive.jpg" width="230" height="230" alt="submit button">
+                        <br><font size="2" face="calibri" >Xbox LIVE 12 Month
+                        <br><font size="4" face="calibri"><b>Rp.900.000</b></font>
+                        <br><font size="2" face="calibri"><s>Rp.1.000.000</s></font> &nbsp; <font color="red" face="calibri" size="2">(1% OFF)</td>
+                        <td width="20"></td>
+                       
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <table>
+                    <tr>
+                        <td width="100"></td>
+                        <td><a href="beli.html"><button class="button">Beli sekarang</button></a></td>
+                        <td width="100"></td>
+                        <td><a href="beli.html"><button class="button">Beli sekarang</button></a></td>
+                        <td width="100"></td>
+                        <td><a href="beli.html"><button class="button">Beli sekarang</button></a></td>
+                        <td width="100"></td>
+                        <td><a href="beli.html"><button class="button">Beli sekarang</button></a></td>
+                        <td width="100"></td>
+                        <td><a href="beli.html"><button class="button">Beli sekarang</button></a></td>
+                        <td width="100"></td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <hr>
+        <br>
+        <br>
+        <br>
+      <tr bgcolor="black">
+            <td bgcolor="black">
+                <table align="center" width="80%" bgcolor="black">
+                    <tr>
+                        <td colspan="4"><vigiarta class="a b">PEMBAYARAN YANG MUDAH DAN <br> AMAN</vigiarta>
+                        <br><img src="visa.png" width="60" height="30">
+                        <img src="master.jpg" width="50" height="30">
+                        <img src="bca.jpg" width="50" height="30">
+                        <img src="dana.png" width="50" height="30">
+                        <img src="ovo.jpg" width="60" height="30"></td>
+                        <td width="30"></td>
+                        <td valign="top"></td>
+                        
+                        <td>
+                        <table>
+                            <tr>
+                                <td colspan="2"><vigiarta class="a b">GANTI WILAYAH</vigiarta></td>
+                            </tr>
+                            <tr>
+                                <td><img src="bendera.png" width="50" height="50"></td>
+                                <td><font color="grey" face="arial" size="2">Indonesia<br><u>Ganti</u></font></td>
+                            </tr>
+                        </table>
+                        </td>
+
+
+                        <td>
+
+                        <td valign="top"><vigiarta class="a b">UNDUH APLIKASI</vigiarta>
+                        <img src="play.png" width="100" height="30">
+                        <img src="app.png" width="100" height="33"></td>
+                        <td width="100"></td>
+                        <td valign="top"><vigiarta class="a b">IKUTI KAMI</vigiarta>
+                        <img src="facebook.png" width="40" height="35">
+                        <img src="ig.jpg" width="40" height="35"></td>
+
+                        </td>
+                    </tr>
+                    
+                    <tr>
+                        <td colspan="11"><hr></td>
+                    </tr>
+
+
+                        <td><img src="ps.jpg" width="70" height="70">
+                        <td colspan="3"><font color="grey" face="calibri" size="2">Onad Gaming Peripheral Online
+                        <br>Jalan R.A Kartini no. 39
+                        <br>Maospati
+                        <br>Magetan
+                        <br>Jawa Timur 63392</font></td>
+                        <td width="50"></td>
+                        <td valign="top"><vigiarta class="a b"><b>ABOUT US</b>
+                        <br><vigiarta class="a b">Careers
+                        <br><vigiarta class="a b">Kebijakan Privasi
+                        <br><vigiarta class="a b">Syarat Penggunan
+                        <br><vigiarta class="a b">Press </vigiarta></td>
+                        <td width="80"></td>
+                        <td valign="top"><vigiarta class="a b"><b>BANTUAN</b>
+                        <br>Layanan Pelanggan
+                        <br>FAQ
+                        <br>Kebijakan Penukaran</vigiarta></td>
+                        <td width="100"></td>
+                        <td valign="top"><vigiarta class="a b"><b>BISNIS</b>
+                        <br>Peripheral Online
+                        <br>Pembelian Online</vigiarta></td>
+
+                    </tr>
+                    <tr>
+                        <td colspan="11"><hr></td>
+                    </tr>
+
+                <tr>
+                    <td colspan="4"><vigiarta class="a b"><b>REKANAN PENGIRIMAN</b>
+                    <br><img src="jne.jpg" width="60" height="30">
+                    <img src="ninja.jpg" width="60" height="30">
+                    <img src="sicepat.jpg" width="60" height="30">
+                    <br><img src="jnt.png" width="60" height="30"></vigiarta></td>
+
+                    <td>ph</td>
+                    <td colspan="5"><font size="3" face="calibri" color="grey">Selamat Datang di Onad Gaming peripheral Online!
+                    <br>Tempat dimana Anda Bisa menemukan Kebutuhan Gaming Anda.
+                    <br>Anda dapat menemukan bebagai Gaming Peripheral dan Kelengkapannya dengan berbagai macam jenis Merek
+                    <br>Di jamin Produk Berkualitas, Pengiriman Gratis Ongkir, Dapat Melakukan Pembayaran Dengan metode Cash On Deliveri(COD)
+                    <br>@Copyright Onad Gaming Peripheral Online</font></td>
+                </tr>
+
+
+                </table>
+            </td>
+
+        </tr>
+
+         
+
+        </body>
+</html>
