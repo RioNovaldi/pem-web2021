@@ -1,0 +1,2 @@
+URL GITHUB 	: https://github.com/RioNovaldi/pem-web2021/tree/main/Tugas%20Akhir%20Pemweb
+URL Deployment	: https://onadgamingperipheralonline.000webhostapp.com/
